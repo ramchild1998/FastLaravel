@@ -51,5 +51,5 @@ Following things are ready to be used directly with AdminLTE Theme.
 
 Once everything is installed, you are ready to go with generator.
 
-Contact: nguyenvanhaudev@gmail.com
+Contact: bisnisku1601@gmail.com
 
