@@ -2,9 +2,7 @@
 
 # Laravel Boilerplate for AdminLTE Theme
 
-Laravel Boilerplate with [AdminLTE](https://adminlte.io/) Theme with [FastLaravel](https://github.com/FastXGroup/FastLaravel).
-
-Youtube: https://www.youtube.com/watch?v=tk9CJU9W7BU
+Laravel Boilerplate with [AdminLTE](https://adminlte.io/)
 
 Following things are ready to be used directly with AdminLTE Theme.
 
